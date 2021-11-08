@@ -1,0 +1,16 @@
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task38)\bin\Debug\net5.0\lab4(task38).exe
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task38)\bin\Debug\net5.0\lab4(task38).deps.json
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task38)\bin\Debug\net5.0\lab4(task38).runtimeconfig.json
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task38)\bin\Debug\net5.0\lab4(task38).runtimeconfig.dev.json
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task38)\bin\Debug\net5.0\lab4(task38).dll
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task38)\bin\Debug\net5.0\ref\lab4(task38).dll
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task38)\bin\Debug\net5.0\lab4(task38).pdb
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task38)\obj\Debug\net5.0\lab4(task38).csproj.AssemblyReference.cache
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task38)\obj\Debug\net5.0\lab4(task38).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task38)\obj\Debug\net5.0\lab4(task38).AssemblyInfoInputs.cache
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task38)\obj\Debug\net5.0\lab4(task38).AssemblyInfo.cs
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task38)\obj\Debug\net5.0\lab4(task38).csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task38)\obj\Debug\net5.0\lab4(task38).dll
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task38)\obj\Debug\net5.0\ref\lab4(task38).dll
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task38)\obj\Debug\net5.0\lab4(task38).pdb
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task38)\obj\Debug\net5.0\lab4(task38).genruntimeconfig.cache

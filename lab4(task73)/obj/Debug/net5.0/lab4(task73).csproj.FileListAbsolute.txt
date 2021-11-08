@@ -1,0 +1,16 @@
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task73)\bin\Debug\net5.0\lab4(task73).exe
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task73)\bin\Debug\net5.0\lab4(task73).deps.json
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task73)\bin\Debug\net5.0\lab4(task73).runtimeconfig.json
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task73)\bin\Debug\net5.0\lab4(task73).runtimeconfig.dev.json
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task73)\bin\Debug\net5.0\lab4(task73).dll
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task73)\bin\Debug\net5.0\ref\lab4(task73).dll
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task73)\bin\Debug\net5.0\lab4(task73).pdb
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task73)\obj\Debug\net5.0\lab4(task73).csproj.AssemblyReference.cache
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task73)\obj\Debug\net5.0\lab4(task73).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task73)\obj\Debug\net5.0\lab4(task73).AssemblyInfoInputs.cache
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task73)\obj\Debug\net5.0\lab4(task73).AssemblyInfo.cs
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task73)\obj\Debug\net5.0\lab4(task73).csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task73)\obj\Debug\net5.0\lab4(task73).dll
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task73)\obj\Debug\net5.0\ref\lab4(task73).dll
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task73)\obj\Debug\net5.0\lab4(task73).pdb
+C:\Users\Yura\source\repos\lab4(task3)\lab4(task73)\obj\Debug\net5.0\lab4(task73).genruntimeconfig.cache
